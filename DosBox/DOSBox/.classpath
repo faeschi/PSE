@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src/main/java"/>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="lib/hamcrest-all-1.3.jar"/>
+	<classpathentry kind="lib" path="lib/junit-4.11.jar"/>
+	<classpathentry kind="lib" path="lib/mockito-all-1.9.5.jar"/>
+	<classpathentry kind="lib" path="lib/fest-util-1.1.6.jar"/>
+	<classpathentry kind="lib" path="lib/fest-assert-core-2.0M10.jar" sourcepath="C:/Users/tob/.m2/repository/org/easytesting/fest-assert-core/2.0M10/fest-assert-core-2.0M10-sources.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
